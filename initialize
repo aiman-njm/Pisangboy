@@ -5,3 +5,6 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/aiman-njm/Pisangboy.git
 git push -u origin main
+git remote add origin <URL-of-your-repository>
+git push -u origin HEAD
+
